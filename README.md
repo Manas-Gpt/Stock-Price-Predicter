@@ -13,8 +13,8 @@ This Streamlit application uses an LSTM (Long Short-Term Memory) neural network 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/stock-price-prediction.git
-    cd stock-price-prediction
+    git clone https://github.com/Manas-Gpt/Stock-Price-Predicter.git
+    cd Stock-Price-Predicter
     ```
 
 2.  **Create a virtual environment (recommended):**
